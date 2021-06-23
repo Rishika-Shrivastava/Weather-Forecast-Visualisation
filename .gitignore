@@ -1,0 +1,6 @@
+#env
+.env
+setup.sh
+
+#directories
+/venv
